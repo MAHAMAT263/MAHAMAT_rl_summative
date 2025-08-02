@@ -2,7 +2,7 @@
 
 **Author:** Mahamat Hissein Ahmat  
 **Video Demo:** [Watch on Google Drive](https://drive.google.com/file/d/1bQxk_E-Usw-OhJAP6ZjndJ2OTHptnAOD/view?usp=sharing)  
-**GitHub Repo:** [View on GitHub](https://github.com/MAHAMAT263/Mahamat__rl_summative.git)
+**GitHub Repo:** [View on GitHub](https://github.com/MAHAMAT263/MAHAMAT_rl_summative.git)
 
 ---
 
