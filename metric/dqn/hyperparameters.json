@@ -1,0 +1,12 @@
+{
+    "learning_rate": 0.0005,
+    "buffer_size": 50000,
+    "learning_starts": 2000,
+    "batch_size": 64,
+    "gamma": 0.98,
+    "train_freq": 1,
+    "target_update_interval": 500,
+    "exploration_fraction": 0.4,
+    "exploration_final_eps": 0.02,
+    "tau": 0.005
+}

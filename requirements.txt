@@ -1,0 +1,8 @@
+stable-baselines3
+torch
+gymnasium
+numpy
+pandas
+matplotlib
+opencv-python
+tqdm
